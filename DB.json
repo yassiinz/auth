@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "email": "RiahiYassine@gmail.com",
+      "password": "$2a$10$sFXwIcQc2tq3vWF/Bg53ve26Z7I9iJX/3wGUdnBlGiq/3xTy2PWw2",
+      "name": "riahi",
+      "surname": "yassine",
+      "role": "ROLE_ADMIN",
+      "id": 1
+    },
+    {
+      "email": "yassine.riahi@example.com",
+      "password": "$2a$10$bLPtG2qtRvZL88G4SAOPKOMH4.p3vqDUJKGJmS3mtl22QJjNIg5CC",
+      "name": "riahi",
+      "surname": "Yassine",
+      "role": "ROLE ADMIN",
+      "id": 2
+    }
+  ]
+}
